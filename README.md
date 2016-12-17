@@ -4,8 +4,10 @@
 <p><b>Last updated :</b> 17/12/2016</p>
 <p><b>Programming language :</b> PHP , JS ,CSS , HTML</p>
 <p><b>Company name : </b><a target="_black" href="http://acyber.ir">acyber</a> (IT Security Lab Iran)</p></h6>
-# Project 
+# Install
 <p>View all information on the user's system by the browsers</p>
+<p>Xampp or Wamp</p>
+<p>Import testdb.sql on mysql and change parameter db connect.php file</p>
 # Session
 <p>
 Client-side sessions use cookies and cryptographic techniques to maintain state without storing as much data on the server. When presenting a dynamic web page, the server sends the current state data to the client (web browser) in the form of a cookie. The client saves the cookie in memory or on disk. With each successive request, the client sends the cookie back to the server, and the server uses the data to "remember" the state of the application for that specific client and generate an appropriate response.

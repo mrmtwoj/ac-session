@@ -1,0 +1,1 @@
+IP: 192.168.1.6 | PORT: 4879 | HOST:  | Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:49.0) Gecko/20100101 Firefox/49.0 | METHOD:  | REF: http://192.168.1.5/session/login/index.php | DATE: Friday 14th 2016f October 2016 09:42:39 AM | COOKIE: cookie=%27+document.cookie; 

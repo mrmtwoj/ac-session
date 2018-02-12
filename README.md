@@ -23,5 +23,5 @@ This mechanism may work well in some contexts; however, data stored on the clien
 <li>   E-Mail      :   mr.mtwoj@gmail.com
 <li>   Website     :   www.acyber.ir
 <li>   Twitter     :   <a href="https://twitter.com/MrMtwoj">@mrmtwoj</a>
-<li>   Github      :   https://github.com/mrmtwoj/ac-MD5checker
+<li>   Github      :   https://github.com/mrmtwoj/ac-session
 </ul>
